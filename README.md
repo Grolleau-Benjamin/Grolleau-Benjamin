@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Benjamin Grolleau 👋</h1>
 
 I'm a student at **ENSEIRB-MATMECA**, passionate about web development and emerging technologies.  
-- 🚀 **Member of the [Cosmy] project**  
+- 🚀 **Member of the [Cosmy](https://github.com/cosmy-solutions) project**  
 - 🎓 **Web Manager** for the BDE mandate **2024-2025**
 
 ---
 
 ## 🛠️ Skills
 
-- **Web Development**: HTML, CSS, JavaScript, TypeScript, React, Node.js, etc.
-- **UI/UX Design**
+- **Web Development**: React, TypeScript, NestJS.
+- **Hardware Development**: Rust, C/C++.
 - **Project Management**
 
 ---
