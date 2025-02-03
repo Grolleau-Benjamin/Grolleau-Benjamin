@@ -1,22 +1,32 @@
-# Salut, je suis Benjamin Grolleau 👋
+<h1 align="center">Hi, I'm Benjamin Grolleau 👋</h1>
 
-Je suis étudiant à l'ENSEIRB-MATMECA, passionné par le développement web et les nouvelles technologies.  
-- 🚀 **Membre du projet [Cosmy]**  
-- 🎓 **Responsable Web** au sein du mandat BDE **2024-2025**
-
----
-
-## 🛠️ Compétences
-
-- **Développement Web** : HTML, CSS, JavaScript, TypeScript, React, Node.js, etc.
-- **Conception UI/UX**
-- **Gestion de projets**
+I'm a student at **ENSEIRB-MATMECA**, passionate about web development and emerging technologies.  
+- 🚀 **Member of the [Cosmy] project**  
+- 🎓 **Web Manager** for the BDE mandate **2024-2025**
 
 ---
 
-## 📊 Mes Statistiques GitHub
+## 🛠️ Skills
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Grolleau-Benjamin&show_icons=true&theme=radical)](https://github.com/Grolleau-Benjami)
+- **Web Development**: HTML, CSS, JavaScript, TypeScript, React, Node.js, etc.
+- **UI/UX Design**
+- **Project Management**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grolleau-Benjamin&layout=compact&theme=radical)](https://github.com/Grolleau-Benjami)
+---
 
+## 📊 GitHub Stats
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Grolleau-Benjamin">
+        <img src="https://github-readme-stats.vercel.app/api?username=Grolleau-Benjamin&show_icons=true&theme=radical" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Grolleau-Benjamin">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grolleau-Benjamin&layout=compact&theme=radical" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
