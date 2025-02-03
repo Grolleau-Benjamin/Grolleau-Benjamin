@@ -16,21 +16,7 @@ Je suis étudiant à l'ENSEIRB-MATMECA, passionné par le développement web et 
 
 ## 📊 Mes Statistiques GitHub
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)](https://github.com/YOUR_USERNAME)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Grolleau-Benjamin&show_icons=true&theme=radical)](https://github.com/Grolleau-Benjami)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)](https://github.com/YOUR_USERNAME)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grolleau-Benjamin&layout=compact&theme=radical)](https://github.com/Grolleau-Benjami)
 
-> **Note :** Remplace `YOUR_USERNAME` par ton nom d'utilisateur GitHub.
-
----
-
-## 📫 Contact
-
-N'hésite pas à me contacter pour discuter de projets passionnants ou d'une éventuelle collaboration !
-
-- **Email** : [ton.email@example.com](mailto:ton.email@example.com)
-- **LinkedIn** : [linkedin.com/in/benjamingrolleau](https://www.linkedin.com/in/benjamingrolleau/)
-
----
-
-Merci de visiter mon profil et à bientôt ! 😊
