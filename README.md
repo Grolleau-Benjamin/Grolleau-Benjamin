@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Benjamin Grolleau 👋</h1>
 
-I'm a student at **ENSEIRB-MATMECA**, passionate about web development and emerging technologies.  
+I’m a student at **ENSEIRB-MATMECA**, passionate about web development and emerging technologies. I also spend a lot of time studying IoT solutions.
 - 🚀 **Member of the [Cosmy](https://github.com/cosmy-solutions) project**  
 - 🎓 **Web Manager** for the BDE mandate **2024-2025**
 
