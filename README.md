@@ -8,8 +8,10 @@ I’m a student at **ENSEIRB-MATMECA**, passionate about web development and eme
 
 ## 🛠️ Skills
 
-- **Web Development**: React, TypeScript, NestJS.
+- **Web Development**: React, TypeScript, NestJS, NextJS.
 - **Hardware Development**: Rust, C/C++.
+- **Others**: Java, Python.
+- **Server Management**: Ansible, K8S (k3s).
 - **Project Management**
 
 ---
